@@ -128,6 +128,7 @@ float HX711::get_units(byte times) {
 	}else{
 		return val;
 	}
+	
 }
 
 void HX711::tare(byte times) {
